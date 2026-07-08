@@ -7,6 +7,8 @@ treatment of critical-sized bone defects (CSD).
 This repository is intended to make every number, figure, and statistic in the
 accompanying paper fully reproducible from the underlying data.
 
+Zenodo Repository DOI: DOI: 10.5281/zenodo.21267466
+
 ---
 
 ## What's here
