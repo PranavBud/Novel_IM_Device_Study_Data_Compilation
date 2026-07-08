@@ -1,0 +1,29 @@
+group,replicate,timepoint_week,cell_count,mineralization_pct
+# INSTRUCTIONS: Replace this template with the actual per-replicate measurements.
+# There are 5 replicates (n=5) per group. Fill one row per replicate per timepoint.
+# group must be one of: titanium, novel_IM, petri_control
+# replicate: 1-5
+# timepoint_week: 0, 1, 2, 3, 4
+# cell_count: viable cells counted via hemocytometer with Trypan Blue exclusion
+# mineralization_pct: % Von Kossa-positive area from ImageJ thresholding
+#
+# The summary means and standard deviations in cell_culture_summary.csv were
+# computed from these per-replicate values. Once this file is populated,
+# code/reproduce_statistics.py will regenerate every statistic reported in the paper.
+#
+# Example rows (DELETE and replace with real data):
+titanium,1,4,,
+titanium,2,4,,
+titanium,3,4,,
+titanium,4,4,,
+titanium,5,4,,
+novel_IM,1,4,,
+novel_IM,2,4,,
+novel_IM,3,4,,
+novel_IM,4,4,,
+novel_IM,5,4,,
+petri_control,1,4,,
+petri_control,2,4,,
+petri_control,3,4,,
+petri_control,4,4,,
+petri_control,5,4,,

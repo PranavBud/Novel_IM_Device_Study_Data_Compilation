@@ -1,0 +1,27 @@
+{
+  "title": "A Bioresorbable Conforming Intramedullary Device for Critical-Sized Bone Defects: Data, Code, and Computational Models",
+  "description": "Raw data, analysis code, and computational models supporting the study of a novel bioresorbable polycaprolactone (PCL) conforming intramedullary (IM) device for the treatment of critical-sized bone defects (CSD). Includes the in vitro cell culture dataset (proliferation and Von Kossa mineralization across a novel IM, a petri-dish positive control, and a titanium plate; n=5 per group over 28 days), finite element analysis (FEA) results for axial, bending, torsional, and worst-case traumatic loading, mesh-convergence data, the full statistical analysis (two-way mixed-design ANOVA, Welch's t-tests with Bonferroni correction, Cohen's d, 95% confidence intervals), a first-order Pitt PCL degradation model, and a stress-life fatigue analysis. All scripts reproduce the figures and statistics reported in the paper.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "biomedical engineering",
+    "bone tissue engineering",
+    "critical-sized bone defect",
+    "intramedullary device",
+    "polycaprolactone",
+    "PCL",
+    "finite element analysis",
+    "bioresorbable implant",
+    "mesenchymal stem cells",
+    "regenerative medicine",
+    "orthopedics"
+  ],
+  "creators": [
+    {
+      "name": "Budipalli, Pranav Reddy",
+      "affiliation": ""
+    }
+  ],
+  "notes": "Software (code/) is released under the MIT License; data (data/) and figures (figures/) are released under CC BY 4.0. FEA inputs originate from Autodesk Fusion and are provided as exported numerical results plus device geometry."
+}

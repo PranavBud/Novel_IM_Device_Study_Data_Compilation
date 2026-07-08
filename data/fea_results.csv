@@ -1,0 +1,12 @@
+load_case,applied_load,applied_load_unit,max_von_mises_psi,max_von_mises_mpa,safety_factor,derived_yield_psi,derived_yield_mpa,max_displacement_in,max_displacement_mm
+axial_compression,300,PSI,309.745,2.14,7.024,2174.26,14.99,0.515,13.1
+bending,67,Nm,302.352,2.08,8.045,2432.42,16.77,0.218,5.5
+torsion,25,Nm,312.825,2.16,7.491,2343.37,16.16,0.012,0.3
+worst_case_trauma,1071,PSI,1102.985,7.605,1.983,2187.219,15.08,1.78,45.2
+# Notes:,,,,,,,,,
+# - Values are from the fine (1x) mesh, full-scale model in Autodesk Fusion.,,,,,,,,
+# - Derived yield = max Von Mises x minimum safety factor (per load case), reported as a result.,,,,,,,,
+# - Worst-case trauma = 8.5x body weight jump-landing load (Bauer et al., 2001); no separate,,,,,,,,
+#   derived yield reported for the trauma case (safety factor reported directly).,,,,,,,,,
+# - 1 MPa = 145.038 PSI; 1 in = 25.4 mm.,,,,,,,,,
+,,,,,,,,,

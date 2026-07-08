@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "A Bioresorbable Conforming Intramedullary Device for Critical-Sized Bone Defects: Data, Code, and Computational Models"
+type: dataset
+authors:
+  - family-names: "Budipalli"
+    given-names: "Pranav Reddy"
+keywords:
+  - "biomedical engineering"
+  - "critical-sized bone defect"
+  - "intramedullary device"
+  - "polycaprolactone"
+  - "finite element analysis"
+  - "bioresorbable implant"
+license: CC-BY-4.0
+# After the first Zenodo release, add the minted DOI here:
+# doi: 10.5281/zenodo.XXXXXXX
+# version: "1.0.0"
+# date-released: "YYYY-MM-DD"

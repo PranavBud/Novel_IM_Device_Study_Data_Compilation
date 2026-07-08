@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/cell_culture_raw.csv
+data/statistics_results_reproduced.csv
