@@ -99,5 +99,5 @@ See `CITATION.cff`. After the first release, cite using the Zenodo DOI.
 
 ## License
 
-Code in `code/` is released under the MIT License. Data in `data/` and figures in
-`figures/` are released under CC BY 4.0. See `LICENSE`.
+Code in `code/` is released under the MIT License. Data in `data/`, figures in
+`figures/`, images in `raw_images/`, and CAD files in `cad/` are released under CC BY 4.0. See `LICENSE`.
