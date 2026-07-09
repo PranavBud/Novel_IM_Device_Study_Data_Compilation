@@ -27,11 +27,14 @@ Zenodo Repository DOI: DOI: 10.5281/zenodo.21267466
 │   └── pcl_fatigue_analysis.py          Stress-life fatigue analysis (Figures)
 ├── figures/              Final 300-DPI figure PNGs
 ├── cad/                  Device geometry (export STL/STEP from Autodesk Fusion here)
+├── raw_images/           Raw Microscopy Images and Finite Element Analysis Results
 ├── DATA_DICTIONARY.md    Every file and column, with units and methods
 ├── requirements.txt      Python dependencies
 ├── CITATION.cff          How to cite this repository
 ├── .zenodo.json          Metadata that auto-populates the Zenodo deposit
 └── LICENSE               MIT (code) + CC BY 4.0 (data and figures)
+
+Note that the raw images for microscopy are limited to only one replicate of the study (n=1).
 ```
 
 ## Reproducing the results
