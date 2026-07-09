@@ -7,7 +7,7 @@ treatment of critical-sized bone defects (CSD).
 This repository is intended to make every number, figure, and statistic in the
 accompanying paper fully reproducible from the underlying data.
 
-Zenodo Repository DOI: DOI: 10.5281/zenodo.21267466
+Zenodo Repository DOI: 10.5281/zenodo.21267466
 
 ---
 
@@ -26,13 +26,13 @@ Zenodo Repository DOI: DOI: 10.5281/zenodo.21267466
 │   ├── pcl_degradation_model.py         First-order Pitt degradation model (Figure)
 │   └── pcl_fatigue_analysis.py          Stress-life fatigue analysis (Figures)
 ├── figures/              Final 300-DPI figure PNGs
-├── cad/                  Device geometry (export STL/STEP from Autodesk Fusion here)
+├── cad/                  Device geometry (export STL/STEP from Autodesk Fusion here) at the different mesh quantities tested, and the defected bone the device prototype was designed around
 ├── raw_images/           Raw Microscopy Images and Finite Element Analysis Results
 ├── DATA_DICTIONARY.md    Every file and column, with units and methods
 ├── requirements.txt      Python dependencies
 ├── CITATION.cff          How to cite this repository
 ├── .zenodo.json          Metadata that auto-populates the Zenodo deposit
-└── LICENSE               MIT (code) + CC BY 4.0 (data and figures)
+└── LICENSE               MIT (code) + CC BY 4.0 (data, figures, cad, raw images)
 
 Note that the raw images for microscopy are limited to only one replicate of the study (n=1).
 ```
