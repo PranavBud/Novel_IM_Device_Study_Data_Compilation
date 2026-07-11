@@ -92,7 +92,3 @@ Published inferential statistics (the authoritative values reported in the paper
 - The fatigue **endurance limit is estimated as 0.4 × ultimate tensile strength**,
   a conventional engineering approximation used in the absence of material-specific
   PCL fatigue data. It is the least precisely-sourced value in the analysis.
-- The physiological-load figures express loads as an **equivalent pressure over a
-  device reference area**, which is explicitly distinct from true in-situ bone stress.
-- FEA assumes linear-elastic material behavior and does not capture in vivo
-  hydrolytic degradation effects on mechanical properties.
