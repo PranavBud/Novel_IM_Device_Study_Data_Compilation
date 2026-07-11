@@ -19,7 +19,7 @@ deviations are computed across the five replicates (n=5) per group.
 | `mineralization_pct_mean` | Mean Von Kossa-positive area | percent |
 | `mineralization_pct_sd` | Standard deviation of mineralization | percent |
 
-## data/cell_culture_raw_template.csv → (rename to cell_culture_raw.csv once filled)
+## data/cell_culture_raw.csv and raw_images for cell_culture+mineralization
 
 Per-replicate measurements (one row per replicate per timepoint). This is the
 source from which all summary statistics and inferential tests are derived.
@@ -32,7 +32,7 @@ source from which all summary statistics and inferential tests are derived.
 | `cell_count` | Viable cells (hemocytometer, Trypan Blue exclusion) | cells |
 | `mineralization_pct` | % Von Kossa-positive area (ImageJ thresholding) | percent |
 
-## data/fea_results.csv
+## data/fea_results.csv and raw_images for Finite_Element_Analysis
 
 Finite element analysis outputs for the four load cases (fine 1× mesh, full-scale
 model, Autodesk Fusion).
