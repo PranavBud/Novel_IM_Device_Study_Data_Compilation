@@ -83,7 +83,7 @@ Published inferential statistics (the authoritative values reported in the paper
 - **Cell count:** viable cells quantified by hemocytometer with Trypan Blue
   exclusion at weekly intervals over 28 days.
 - **Mineralization:** Von Kossa staining; % positive area quantified by ImageJ
-  thresholding (see paper Section 2.3.3 and Figure for the thresholding workflow).
+  thresholding.
 - **FEA:** static structural analysis in Autodesk Fusion; Von Mises stress,
   safety factor, and displacement extracted per load case.
 
