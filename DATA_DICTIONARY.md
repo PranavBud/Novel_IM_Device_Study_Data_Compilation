@@ -47,8 +47,8 @@ model, Autodesk Fusion).
 | `derived_yield_psi` / `_mpa` | Device yield = max Von Mises × min safety factor | PSI / MPa |
 | `max_displacement_in` / `_mm` | Maximum displacement | inches / mm |
 
-The raw images explicity show the PSI values for Maximum Von Mises and inches for the Displacement values.
-
+**The raw images explicity show the PSI values for Maximum Von Mises and inches for the Displacement values.
+**
 ## data/mesh_convergence.csv
 
 Mesh convergence study: three mesh densities for each of the three static studies.
