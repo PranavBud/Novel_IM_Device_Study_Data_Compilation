@@ -26,7 +26,8 @@ Zenodo Repository DOI: 10.5281/zenodo.21267466
 │   ├── pcl_degradation_model.py         First-order Pitt degradation model (Figure)
 │   └── pcl_fatigue_analysis.py          Stress-life fatigue analysis (Figures)
 ├── figures/              Final 300-DPI figure PNGs
-├── cad/                  Device geometry (export STL/STEP from Autodesk Fusion here) at the different mesh quantities tested, and the defected bone the device prototype was designed around
+├── cad/                  Device geometry (export STL/STEP from Autodesk Fusion here) at the
+different mesh quantities tested, and the defected bone the device prototype was designed around
 ├── raw_images/           Raw Microscopy Images and Finite Element Analysis Results
 ├── DATA_DICTIONARY.md    Every file and column, with units and methods
 ├── requirements.txt      Python dependencies
@@ -87,6 +88,10 @@ Stated in full in `DATA_DICTIONARY.md`. In brief: the fatigue endurance limit is
 equivalent pressure over a reference area rather than true in-situ bone stress; and
 FEA assumes linear-elastic behavior without in vivo degradation effects. These are
 disclosed deliberately so the models can be reused and improved.
+
+Note that only one replicate of the raw microscopy is included in the raw_images for 
+the cell culture and mineralization due to limitations such as a poor imaging set-up, 
+as a result of using a secondary school and a community college lab.
 
 ## How to archive on Zenodo (mint a DOI)
 
